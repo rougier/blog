@@ -30,7 +30,7 @@
 
 -->
 
-- **Using a GitHub repository as a blog**  
+- [**Using a GitHub repository as a blog**](./posts/github-blog.md)
   ![](https://img.shields.io/badge/-27/03/2021-5555ff?style=flat-square)
   [![](https://img.shields.io/badge/-GITHUB-9999ff?style=flat-square)](https://github.com/rougier/blog/labels/GITHUB)
   [![](https://img.shields.io/badge/-HACK-9999ff?style=flat-square)](https://github.com/rougier/blog/labels/HACK)
