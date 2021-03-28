@@ -4,7 +4,8 @@
 -->
 
 <p><pre align="center">
-<strong>Nicolas P. Rougier /</strong> <a href="https://www.labri.fr/perso/nrougier">Homepage</a> / <a href="https://twitter.com/NPRougier">Twitter</a> / <a href="https://www.reddit.com/user/Nicolas-Rougier/submitted/?sort=top">Reddit</a> / <a href="https://github.com/rougier">GitHub</a> / <a href="https://gist.github.com/rougier">Gist</a> / <a href="https://stackoverflow.com/users/3348261/nicolas-rougier">Stackoveflow</a> / <a href="https://www.slideshare.net/NicolasRougier1">Slideshare</a> / <a href="https://www.shadertoy.com/user/rougier">Shadertoy</a></pre></p>
+<strong>Nicolas P. Rougier /</strong> <a href="https://www.labri.fr/perso/nrougier">Homepage</a> / <a href="https://github.com/rougier/blog">Blog</a> / <a href="https://twitter.com/NPRougier">Twitter</a> / <a href="https://github.com/rougier">GitHub</a> /  <a href="https://gist.github.com/rougier">Gist</a>
+</pre></p>
 
 > I’m a researcher and team leader at the Institute of
 > Neurodegenerative Diseases (Bordeaux, France). I’m investigating
@@ -15,7 +16,7 @@
   
 ### Posts
    
-- **Nerd fonts and mu4e dashboard**  
+- [**Nerd fonts and mu4e dashboard**]()  
   <img src="https://img.shields.io/badge/-27/03/2021-5555ff?style=flat-square">
   <img src="https://img.shields.io/badge/-EMACS-9999ff?style=flat-square">
   <img src="https://img.shields.io/badge/-MAIL-9999ff?style=flat-square">
@@ -24,7 +25,7 @@
 
   > <img src="posts/data/nerd-dashboard.png" align="right" width="35%">
   
-  > I’ve been playing with [nerd fonts](https://www.nerdfonts.com/) and [mu4e dashboard](https://github.com/rougier/mu4e-dashboard) to design a simple mail side panel. The idea is to replace the default [mu4e](https://www.djcbsoftware.nl/code/mu/mu4e.html) homepage with something more compact and visually nicer. [**[→ Read more]**]()
+  > I’ve been playing with [nerd fonts](https://www.nerdfonts.com/) and [mu4e dashboard](https://github.com/rougier/mu4e-dashboard) to design a simple mail side panel. The idea is to replace the default [mu4e](https://www.djcbsoftware.nl/code/mu/mu4e.html) homepage with something more compact and visually nicer.  
   
 
 - **Using GitHub README as a blog**  
