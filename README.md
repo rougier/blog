@@ -14,7 +14,7 @@
 > reproducible science, scientific visualization, and computer
 > graphics. And when I've time, I hack GNU Emacs.
   
-### Posts
+## Posts
 <!--   
 - [**Nerd fonts and mu4e dashboard**]()  
   <img src="https://img.shields.io/badge/-27/03/2021-5555ff?style=flat-square">
